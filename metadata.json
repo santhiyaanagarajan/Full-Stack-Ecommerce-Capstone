@@ -1,0 +1,6 @@
+{
+  "name": "AURA OBJECTS | Modern E-Commerce Catalog",
+  "description": "A responsive, production-ready E-Commerce product catalog web application built with modular React, persistent cart, dynamic filtering, and client-side routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
